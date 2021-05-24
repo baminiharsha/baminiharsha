@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baminiharsha
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Game Desgin,programing
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
